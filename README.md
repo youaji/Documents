@@ -1,2 +1,2 @@
-# Documents
-Documents
+# Notes
+in /docs
