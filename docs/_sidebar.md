@@ -7,4 +7,5 @@
   * [Kotlin 进阶入门](y_android/Kotlin进阶入门.md)
 * NOTE
   * [Mac 微信双开](y_note/Mac微信双开.md)
+  * [Mac 修改 host](y_note/Mac修改host文件.md)
 
