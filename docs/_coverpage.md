@@ -14,7 +14,7 @@
 
 
 
-[GitHub](https://github.com/docsifyjs/docsify/) 
+[GitHub](https://github.com/youaji) 
 [Get Started](/)
 
 
