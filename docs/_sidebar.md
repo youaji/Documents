@@ -1,7 +1,7 @@
 * GIT
   * [Git 操作概括](/y_git/Git操作概括.md)
 * LINUX
-  * [Linux基本操作](y_linux/Linux基本操作.md)
+  * [Linux 基本操作](y_linux/Linux基本操作.md)
 * ANDROID
   * [Kotlin 语法上手](y_android/Kotlin语法上手.md)
   * [Kotlin 进阶入门](y_android/Kotlin进阶入门.md)
