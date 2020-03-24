@@ -36,9 +36,9 @@
 | 全屏显示                                   | `scrcpy -f`                                                  | `commond + F`                            |
 | 窗口调整为 1：1                            |                                                              | `commond + G`                            |
 | 窗口调整为紧凑「恢复上面操作」             |                                                              | `commond + X`<br />双击黑色背景          |
-| HOME 键                                    |                                                              | `commond + H`<br />鼠标中键              |
+| HOME 键                                    |                                                              | `control + H`<br />鼠标中键              |
 | BACK 键                                    |                                                              | `commond + B`<br />鼠标右键              |
-| 任务管理键「切换 APP」                     |                                                              | `commond、 + S`                          |
+| 任务管理键「切换 APP」                     |                                                              | `commond + S`                            |
 | 菜单键                                     |                                                              | `commond + M`                            |
 | 音量 +                                     |                                                              | `commond + ↑`                            |
 | 音量 -                                     |                                                              | `commond + ↓`                            |
